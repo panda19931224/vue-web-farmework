@@ -1,0 +1,969 @@
+[
+  {
+    "key": "index",
+    "value": [
+      {
+        "date": "2018/04/25",
+        "line": "南京禄口机场",
+        "flag": "4",
+        "number": "21"
+      },
+      {
+        "date": "2018/04/25",
+        "line": "南京南站",
+        "flag": "1",
+        "number": "20"
+      },
+      {
+        "date": "2018/04/25",
+        "line": "长江二桥",
+        "flag": "2",
+        "number": "109"
+      }
+    ]
+  },
+  {
+    "key": "index-table-date",
+    "value": "2017-03-03"
+  },
+  {
+    "key": "through-duration-line",
+    "value": [
+      {
+        "direction": "由南向北",
+        "data": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          3,
+          4,
+          5,
+          1,
+          2,
+          3,
+          4,
+          2,
+          2,
+          4,
+          1,
+          2,
+          3,
+          1,
+          2,
+          3,
+          1,
+          2,
+          2
+        ],
+        "color": "#ea6942"
+      },
+      {
+        "direction": "由北向南",
+        "data": [
+          5,
+          4,
+          3,
+          3,
+          3,
+          3,
+          3,
+          4,
+          5,
+          2,
+          3,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          1,
+          2,
+          1,
+          4,
+          5,
+          2,
+          1
+        ],
+        "color": "#056cb7"
+      }
+    ]
+  },
+  {
+    "key": "through-duration-table",
+    "value": [
+      {
+        "date": "2018-08-04",
+        "duration": "5个小时以上",
+        "number": 182
+      },
+      {
+        "date": "2018-08-05",
+        "duration": "4-5小时",
+        "number": 182
+      },
+      {
+        "date": "2018-08-06",
+        "duration": "3-4小时",
+        "number": 2918
+      },
+      {
+        "date": "2018-08-07",
+        "duration": "2-3小时",
+        "number": 1021
+      }
+    ]
+  },
+  {
+    "key": "trial-analysis-js",
+    "value": [
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "徐州",
+          "value": 95
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "宿迁",
+          "value": 90
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "连云港",
+          "value": 80
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "淮安",
+          "value": 70
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "盐城",
+          "value": 60
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "扬州",
+          "value": 50
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "泰州",
+          "value": 40
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "南通",
+          "value": 30
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "镇江",
+          "value": 20
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "无锡",
+          "value": 10
+        }
+      ]
+    ]
+  },
+  {
+    "key": "trial-analysis-js-table",
+    "value": [
+      {
+        "date": "2018-08-04",
+        "line": "南京-徐州",
+        "number": "1256"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-宿迁",
+        "number": "2138"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-淮安",
+        "number": "974"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-连云港",
+        "number": "2894"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-扬州",
+        "number": "1629"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-盐城",
+        "number": "1946"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-泰州",
+        "number": "3456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-镇江",
+        "number": "1226"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-南通",
+        "number": "1230"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-无锡",
+        "number": "3392"
+      }
+    ]
+  },
+  {
+    "key": "trial-analysis-nj",
+    "value": [
+      [
+        {
+          "name": "徐州"
+        },
+        {
+          "name": "南京",
+          "value": 95
+        }
+      ],
+      [
+        {
+          "name": "宿迁"
+        },
+        {
+          "name": "南京",
+          "value": 90
+        }
+      ],
+      [
+        {
+          "name": "连云港"
+        },
+        {
+          "name": "南京",
+          "value": 80
+        }
+      ],
+      [
+        {
+          "name": "淮安"
+        },
+        {
+          "name": "南京",
+          "value": 70
+        }
+      ],
+      [
+        {
+          "name": "盐城"
+        },
+        {
+          "name": "南京",
+          "value": 60
+        }
+      ],
+      [
+        {
+          "name": "扬州"
+        },
+        {
+          "name": "南京",
+          "value": 50
+        }
+      ],
+      [
+        {
+          "name": "泰州"
+        },
+        {
+          "name": "南京",
+          "value": 40
+        }
+      ],
+      [
+        {
+          "name": "南通"
+        },
+        {
+          "name": "南京",
+          "value": 30
+        }
+      ],
+      [
+        {
+          "name": "镇江"
+        },
+        {
+          "name": "南京",
+          "value": 20
+        }
+      ],
+      [
+        {
+          "name": "无锡"
+        },
+        {
+          "name": "南京",
+          "value": 10
+        }
+      ]
+    ]
+  },
+  {
+    "key": "trial-analysis-nj-table",
+    "value": [
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "12156"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "12326"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "33456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "12344"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "23456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "12556"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "12656"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "12756"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "12856"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "12956"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "12306"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "13456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "12456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "23456"
+      }
+    ]
+  },
+  {
+    "key": "history-data-table",
+    "value": [
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "13456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "12346",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "12356",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "13456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "12356",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "12356",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "13456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "12356",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "12346",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "12456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "12345",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "23456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "13456",
+        "averageTime": "5"
+      }
+    ]
+  },
+  {
+    "key": "over-view-line",
+    "value": [
+      {
+        "direction": "由南向北",
+        "data": [
+          2,
+          3,
+          4,
+          5,
+          4,
+          4,
+          4,
+          4,
+          1,
+          2,
+          3
+        ],
+        "color": "#f78b33",
+        "areaColor": "rgba(247, 139, 51, .6)"
+      },
+      {
+        "direction": "由北向南",
+        "data": [
+          5,
+          4,
+          2,
+          2,
+          2,
+          2,
+          3,
+          4,
+          5,
+          2,
+          3
+        ],
+        "color": "#5275c6",
+        "areaColor": "rgba(82, 117, 198, .6)"
+      }
+    ]
+  },
+  {
+    "key": "over-view-no-area-line",
+    "value": [
+      {
+        "direction": "由南向北",
+        "data": [
+          2,
+          3,
+          4,
+          1,
+          1,
+          1,
+          1,
+          5,
+          1,
+          2,
+          3,
+          4
+        ],
+        "color": "#ea6942"
+      },
+      {
+        "direction": "由北向南",
+        "data": [
+          5,
+          4,
+          2,
+          2,
+          2,
+          2,
+          2,
+          4,
+          5,
+          2,
+          3,
+          1
+        ],
+        "color": "#056cb7"
+      }
+    ]
+  },
+  {
+    "key": "history-data-user-flow",
+    "value": [
+      {
+        "date": "20180424",
+        "total": "7160",
+        "local": "1204",
+        "inProvince": "2812",
+        "outProvince": "3144"
+      },
+      {
+        "date": "20180424",
+        "total": "4921",
+        "local": "12231",
+        "inProvince": "2123",
+        "outProvince": "1567"
+      },
+      {
+        "date": "20180424",
+        "total": "5865",
+        "local": "1680",
+        "inProvince": "2732",
+        "outProvince": "1353"
+      },
+      {
+        "date": "20180424",
+        "total": "4847",
+        "local": "1223",
+        "inProvince": "1280",
+        "outProvince": "2344"
+      },
+      {
+        "date": "20180424",
+        "total": "5733",
+        "local": "2331",
+        "inProvince": "1562",
+        "outProvince": "1840"
+      },
+      {
+        "date": "20180424",
+        "total": "5608",
+        "local": "1933",
+        "inProvince": "2441",
+        "outProvince": "1234"
+      },
+      {
+        "date": "20180424",
+        "total": "4124",
+        "local": "1261",
+        "inProvince": "1088",
+        "outProvince": "1775"
+      },
+      {
+        "date": "20180424",
+        "total": "5004",
+        "local": "1125",
+        "inProvince": "2721",
+        "outProvince": "1258"
+      },
+      {
+        "date": "20180424",
+        "total": "6039",
+        "local": "1378",
+        "inProvince": "2722",
+        "outProvince": "1939"
+      },
+      {
+        "date": "20180424",
+        "total": "5738",
+        "local": "2366",
+        "inProvince": "1804",
+        "outProvince": "1568"
+      },
+      {
+        "date": "20180424",
+        "total": "5326",
+        "local": "2073",
+        "inProvince": "1476",
+        "outProvince": "1777"
+      },
+      {
+        "date": "20180424",
+        "total": "6274",
+        "local": "1668",
+        "inProvince": "1773",
+        "outProvince": "2833"
+      },
+      {
+        "date": "20180424",
+        "total": "5942",
+        "local": "1132",
+        "inProvince": "2144",
+        "outProvince": "2666"
+      }
+    ]
+  },
+  {
+    "key": "history-data-user-source",
+    "value": [
+      {
+        "key": "nation",
+        "value": [
+          {
+            "date": "20180424",
+            "source": "江苏",
+            "number": "615158",
+            "ratio": "77.24"
+          },
+          {
+            "date": "20180424",
+            "source": "上海",
+            "number": "33854",
+            "ratio": "4.25"
+          },
+          {
+            "date": "20180424",
+            "source": "安徽",
+            "number": "24178",
+            "ratio": "3.04"
+          },
+          {
+            "date": "20180424",
+            "source": "山东",
+            "number": "16963",
+            "ratio": "2.13"
+          },
+          {
+            "date": "20180424",
+            "source": "北京",
+            "number": "13011",
+            "ratio": "1.63"
+          },
+          {
+            "date": "20180424",
+            "source": "河南",
+            "number": "11165",
+            "ratio": "1.4"
+          },
+          {
+            "date": "20180424",
+            "source": "广东",
+            "number": "8855",
+            "ratio": "1.11"
+          },
+          {
+            "date": "20180424",
+            "source": "浙江",
+            "number": "8541",
+            "ratio": "1.07"
+          },
+          {
+            "date": "20180424",
+            "source": "四川",
+            "number": "6476",
+            "ratio": "0.81"
+          },
+          {
+            "date": "20180424",
+            "source": "湖南",
+            "number": "5440",
+            "ratio": "0.68"
+          },
+          {
+            "date": "20180424",
+            "source": "河北",
+            "number": "4591",
+            "ratio": "0.58"
+          },
+          {
+            "date": "20180424",
+            "source": "黑龙江",
+            "number": "4456",
+            "ratio": "0.56"
+          }
+        ]
+      },
+      {
+        "key": "province",
+        "value": [
+          {
+            "date": "20180424",
+            "source": "无锡",
+            "number": "185739",
+            "ratio": "30.19"
+          },
+          {
+            "date": "20180424",
+            "source": "徐州",
+            "number": "153289",
+            "ratio": "24.92"
+          },
+          {
+            "date": "20180424",
+            "source": "南京",
+            "number": "123391",
+            "ratio": "20.06"
+          },
+          {
+            "date": "20180424",
+            "source": "南京",
+            "number": "121212",
+            "ratio": "7.3"
+          },
+          {
+            "date": "20180424",
+            "source": "盐城",
+            "number": "51892",
+            "ratio": "8.44"
+          },
+          {
+            "date": "20180424",
+            "source": "南通",
+            "number": "34685",
+            "ratio": "5.64"
+          },
+          {
+            "date": "20180424",
+            "source": "扬州",
+            "number": "27524",
+            "ratio": "4.47"
+          },
+          {
+            "date": "20180424",
+            "source": "苏州",
+            "number": "10308",
+            "ratio": "1.68"
+          },
+          {
+            "date": "20180424",
+            "source": "常州",
+            "number": "6375",
+            "ratio": "1.04"
+          },
+          {
+            "date": "20180424",
+            "source": "淮安",
+            "number": "6204",
+            "ratio": "1.01"
+          },
+          {
+            "date": "20180424",
+            "source": "泰州",
+            "number": "5702",
+            "ratio": "0.93"
+          },
+          {
+            "date": "20180424",
+            "source": "宿迁",
+            "number": "3975",
+            "ratio": "0.65"
+          },
+          {
+            "date": "20180424",
+            "source": "镇江",
+            "number": "121212",
+            "ratio": "0.51"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "history-data-user-property",
+    "value": [
+      {
+        "key": "age",
+        "value": [
+          {
+            "date": "20180424",
+            "low22": "1116",
+            "23to35": "14573",
+            "36to45": "15915",
+            "46to55": "16555",
+            "up56": "14109",
+            "total": "62268"
+          },
+          {
+            "date": "20180425",
+            "low22": "1128",
+            "23to35": "15232",
+            "36to45": "16890",
+            "46to55": "17766",
+            "up56": "15270",
+            "total": "66286"
+          }
+        ]
+      },
+      {
+        "key": "sex",
+        "value": [
+          {
+            "date": "20180424  ",
+            "woman": "34772",
+            "man": "44882",
+            "total": "79654"
+          },
+          {
+            "date": "20180425  ",
+            "woman": "36690",
+            "man": "47941",
+            "total": "84631"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "history-data-through-duration",
+    "value": [
+      {
+        "date": "20180425  ",
+        "spot": "红山森林动物园",
+        "average-total": "133",
+        "average-in-province": "132",
+        "average-out-province": "137"
+      },
+      {
+        "date": "20180425  ",
+        "spot": "夫子庙",
+        "average-total": "124",
+        "average-in-province": "123",
+        "average-out-province": "126"
+      },
+      {
+        "date": "20180425  ",
+        "spot": "雨花台",
+        "average-total": "120",
+        "average-in-province": "119",
+        "average-out-province": "122"
+      },
+      {
+        "date": "20180425  ",
+        "spot": "南京博物院",
+        "average-total": "117",
+        "average-in-province": "119",
+        "average-out-province": "116"
+      },
+      {
+        "date": "20170808",
+        "spot": "南京大屠杀遇难同胞纪念馆",
+        "average-total": "115",
+        "average-in-province": "112",
+        "average-out-province": "95"
+      },
+      {
+        "date": "20180425  ",
+        "spot": "玄武湖",
+        "average-total": "110",
+        "average-in-province": "110",
+        "average-out-province": "110"
+      },
+      {
+        "date": "20180425  ",
+        "spot": "中山陵",
+        "average-total": "109",
+        "average-in-province": "122",
+        "average-out-province": "99"
+      }
+    ]
+  }
+]

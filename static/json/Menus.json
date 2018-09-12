@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "name": "南京南站",
+    "state": 1,
+    "sort": 1,
+    "children": [
+      {
+        "id": 11,
+        "name": "总览",
+        "icon": "&#xe902;",
+        "link": "/nJSorthRailwayStation/overView",
+        "state": 1,
+        "sort": 1
+      },
+      {
+        "id": 12,
+        "name": "客流来源",
+        "icon": "&#xe693;",
+        "link": "/nJSorthRailwayStation/userFlow",
+        "state": 1,
+        "sort": 2
+      },
+      {
+        "id": 13,
+        "name": "客流属性",
+        "icon": "&#xe6e7;",
+        "link": "/nJSorthRailwayStation/userProperty",
+        "state": 1,
+        "sort": 3
+      },
+      {
+        "id": 14,
+        "name": "换乘分析",
+        "icon": "&#xe600;",
+        "link": "/nJSorthRailwayStation/transferAnalysis",
+        "state": 1,
+        "sort": 4
+      },
+      {
+        "id": 15,
+        "name": "场站客流分析",
+        "icon": "&#xe68f;",
+        "link": "/nJSorthRailwayStation/userFlowAnalysis",
+        "state": 1,
+        "sort": 5
+      },
+      {
+        "id": 17,
+        "name": "历史数据",
+        "icon": "&#xe6ab;",
+        "link": "/nJSorthRailwayStation/historyData",
+        "state": 1,
+        "sort": 7
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "禄口机场",
+    "state": 1,
+    "sort": 1,
+    "children": [
+      {
+        "id": 21,
+        "name": "总览",
+        "icon": "&#xe902;",
+        "link": "/luKouAirport/overView",
+        "state": 1,
+        "sort": 1
+      },
+      {
+        "id": 22,
+        "name": "客流来源",
+        "icon": "&#xe693;",
+        "link": "/luKouAirport/userFlow",
+        "state": 1,
+        "sort": 2
+      },
+      {
+        "id": 23,
+        "name": "客流属性",
+        "icon": "&#xe6e7;",
+        "link": "/luKouAirport/userProperty",
+        "state": 1,
+        "sort": 3
+      },
+      {
+        "id": 24,
+        "name": "停留时长",
+        "icon": "&#xe60c;",
+        "link": "/luKouAirport/throughDuration",
+        "state": 1,
+        "sort": 4
+      },
+      {
+        "id": 25,
+        "name": "客流对比",
+        "icon": "&#xe606;",
+        "link": "/luKouAirport/userFlowContrast",
+        "state": 1,
+        "sort": 5
+      },
+      {
+        "id": 26,
+        "name": "关联分析",
+        "icon": "&#xe79e;",
+        "link": "/luKouAirport/associationAnalysis",
+        "state": 1,
+        "sort": 6
+      },
+      {
+        "id": 27,
+        "name": "历史数据",
+        "icon": "&#xe6ab;",
+        "link": "/luKouAirport/historyData",
+        "state": 1,
+        "sort": 7
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "长江二桥",
+    "state": 1,
+    "sort": 2,
+    "children": [
+      {
+        "id": 31,
+        "name": "总览",
+        "icon": "&#xe902;",
+        "link": "/secondeBridge/overView",
+        "state": 1,
+        "sort": 1
+      },
+      {
+        "id": 32,
+        "name": "客流来源",
+        "icon": "&#xe693;",
+        "link": "/secondeBridge/userFlow",
+        "state": 1,
+        "sort": 2
+      },
+      {
+        "id": 33,
+        "name": "客流属性",
+        "icon": "&#xe6e7;",
+        "link": "/secondeBridge/userProperty",
+        "state": 1,
+        "sort": 3
+      },
+      {
+        "id": 34,
+        "name": "客流对比",
+        "icon": "&#xe606;",
+        "link": "/secondeBridge/userFlowContrast",
+        "state": 1,
+        "sort": 5
+      },
+      {
+        "id": 35,
+        "name": "通行时长",
+        "icon": "&#xe60c;",
+        "link": "/secondeBridge/throughDuration",
+        "state": 1,
+        "sort": 4
+      },
+      {
+        "id": 36,
+        "name": "轨迹分析",
+        "icon": "&#xe68f;",
+        "link": "/secondeBridge/trialAnalysis",
+        "state": 1,
+        "sort": 5
+      },
+      {
+        "id": 37,
+        "name": "关联分析",
+        "icon": "&#xe79e;",
+        "link": "/secondeBridge/associationAnalysis",
+        "state": 1,
+        "sort": 6
+      },
+      {
+        "id": 38,
+        "name": "历史数据",
+        "icon": "&#xe6ab;",
+        "link": "/secondeBridge/historyData",
+        "state": 1,
+        "sort": 7
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "江阴大桥",
+    "state": 1,
+    "sort": 3,
+    "children": [
+      {
+        "id": 41,
+        "name": "总览",
+        "icon": "&#xe902;",
+        "link": "/jyBridge/overView",
+        "state": 1,
+        "sort": 1
+      },
+      {
+        "id": 42,
+        "name": "客流来源",
+        "icon": "&#xe693;",
+        "link": "/jyBridge/userFlow",
+        "state": 1,
+        "sort": 2
+      },
+      {
+        "id": 43,
+        "name": "客流属性",
+        "icon": "&#xe6e7;",
+        "link": "/jyBridge/userProperty",
+        "state": 1,
+        "sort": 3
+      },
+      {
+        "id": 44,
+        "name": "客流对比",
+        "icon": "&#xe606;",
+        "link": "/jyBridge/userFlowContrast",
+        "state": 1,
+        "sort": 5
+      },
+      {
+        "id": 45,
+        "name": "通行时长",
+        "icon": "&#xe60c;",
+        "link": "/jyBridge/throughDuration",
+        "state": 1,
+        "sort": 4
+      },
+      {
+        "id": 46,
+        "name": "轨迹分析",
+        "icon": "&#xe68f;",
+        "link": "/jyBridge/trialAnalysis",
+        "state": 1,
+        "sort": 5
+      },
+      {
+        "id": 47,
+        "name": "关联分析",
+        "icon": "&#xe79e;",
+        "link": "/jyBridge/associationAnalysis",
+        "state": 1,
+        "sort": 6
+      },
+      {
+        "id": 48,
+        "name": "历史数据",
+        "icon": "&#xe6ab;",
+        "link": "/jyBridge/historyData",
+        "state": 1,
+        "sort": 7
+      }
+    ]
+  }
+]

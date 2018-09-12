@@ -1,0 +1,610 @@
+[
+  {
+    "key": "second-bridge-association-analysis",
+    "value": [
+      {
+        "date": "2018/04/25",
+        "line": "南京禄口机场",
+        "flag": "4",
+        "number": "10"
+      },
+      {
+        "date": "2018/04/25",
+        "line": "南京南站",
+        "flag": "2",
+        "number": "432"
+      },
+      {
+        "date": "2018/04/25",
+        "line": "江阴大桥",
+        "flag": "1",
+        "number": "83"
+      }
+    ]
+  },
+  {
+    "key": "trial-analysis-js",
+    "value": [
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "徐州",
+          "value": 95
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "宿迁",
+          "value": 90
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "连云港",
+          "value": 80
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "淮安",
+          "value": 70
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "盐城",
+          "value": 60
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "扬州",
+          "value": 50
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "泰州",
+          "value": 40
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "南通",
+          "value": 30
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "镇江",
+          "value": 20
+        }
+      ],
+      [
+        {
+          "name": "南京"
+        },
+        {
+          "name": "无锡",
+          "value": 10
+        }
+      ]
+    ]
+  },
+  {
+    "key": "trial-analysis-js-table",
+    "value": [
+      {
+        "date": "2018-08-04",
+        "line": "南京-徐州",
+        "number": "1256"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-宿迁",
+        "number": "2138"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-淮安",
+        "number": "974"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-连云港",
+        "number": "2894"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-扬州",
+        "number": "1629"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-盐城",
+        "number": "1946"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-泰州",
+        "number": "3456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-镇江",
+        "number": "1226"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-南通",
+        "number": "1230"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南京-无锡",
+        "number": "3392"
+      }
+    ]
+  },
+  {
+    "key": "trial-analysis-nj",
+    "value": [
+      [
+        {
+          "name": "徐州"
+        },
+        {
+          "name": "南京",
+          "value": 95
+        }
+      ],
+      [
+        {
+          "name": "宿迁"
+        },
+        {
+          "name": "南京",
+          "value": 90
+        }
+      ],
+      [
+        {
+          "name": "连云港"
+        },
+        {
+          "name": "南京",
+          "value": 80
+        }
+      ],
+      [
+        {
+          "name": "淮安"
+        },
+        {
+          "name": "南京",
+          "value": 70
+        }
+      ],
+      [
+        {
+          "name": "盐城"
+        },
+        {
+          "name": "南京",
+          "value": 60
+        }
+      ],
+      [
+        {
+          "name": "扬州"
+        },
+        {
+          "name": "南京",
+          "value": 50
+        }
+      ],
+      [
+        {
+          "name": "泰州"
+        },
+        {
+          "name": "南京",
+          "value": 40
+        }
+      ],
+      [
+        {
+          "name": "南通"
+        },
+        {
+          "name": "南京",
+          "value": 30
+        }
+      ],
+      [
+        {
+          "name": "镇江"
+        },
+        {
+          "name": "南京",
+          "value": 20
+        }
+      ],
+      [
+        {
+          "name": "无锡"
+        },
+        {
+          "name": "南京",
+          "value": 10
+        }
+      ]
+    ]
+  },
+  {
+    "key": "trial-analysis-nj-table",
+    "value": [
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      },
+      {
+        "date": "2018-08-04",
+        "line": "南通-南京",
+        "number": "123456"
+      }
+    ]
+  },
+  {
+    "key": "through-duration-line",
+    "value": [
+      {
+        "direction": "由南向北",
+        "data": [
+          2,
+          3,
+          4,
+          5,
+          1,
+          3,
+          4,
+          5,
+          1,
+          2,
+          3,
+          4,
+          2,
+          3,
+          4,
+          1,
+          2,
+          3,
+          1,
+          2,
+          3,
+          1,
+          2,
+          2
+        ],
+        "color": "#ea6942"
+      },
+      {
+        "direction": "由北向南",
+        "data": [
+          5,
+          4,
+          2,
+          3,
+          4,
+          1,
+          3,
+          4,
+          5,
+          2,
+          3,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          1,
+          2,
+          1,
+          4,
+          5,
+          2,
+          1
+        ],
+        "color": "#056cb7"
+      }
+    ]
+  },
+  {
+    "key": "through-duration-table",
+    "value": [
+      {
+        "date": "2018-08-04",
+        "duration": "5个小时以上",
+        "number": 182
+      },
+      {
+        "date": "2018-08-05",
+        "duration": "5个小时以上",
+        "number": 182
+      },
+      {
+        "date": "2018-08-06",
+        "duration": "4~5个小时",
+        "number": 2918
+      },
+      {
+        "date": "2018-08-07",
+        "duration": "3~4个小时",
+        "number": 1021
+      },
+      {
+        "date": "2018-08-08",
+        "duration": "2~3个小时",
+        "number": 1112
+      }
+    ]
+  },
+  {
+    "key": "history-data-table",
+    "value": [
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      }
+    ]
+  },
+  {
+    "key": "over-view-line",
+    "value": [
+      {
+        "direction": "由南向北",
+        "data": [
+          2,
+          3,
+          4,
+          5,
+          1,
+          3,
+          4,
+          5,
+          1,
+          2,
+          3
+        ],
+        "color": "#f78b33",
+        "areaColor": "rgba(247, 139, 51, .6)"
+      },
+      {
+        "direction": "由北向南",
+        "data": [
+          5,
+          4,
+          2,
+          3,
+          4,
+          1,
+          3,
+          4,
+          5,
+          2,
+          3
+        ],
+        "color": "#5275c6",
+        "areaColor": "rgba(82, 117, 198, .6)"
+      }
+    ]
+  },
+  {
+    "key": "over-view-no-area-line",
+    "value": [
+      {
+        "direction": "由南向北",
+        "data": [
+          2,
+          3,
+          4,
+          5,
+          1,
+          3,
+          4,
+          5,
+          1,
+          2,
+          3,
+          4
+        ],
+        "color": "#ea6942"
+      },
+      {
+        "direction": "由北向南",
+        "data": [
+          5,
+          4,
+          2,
+          3,
+          4,
+          1,
+          3,
+          4,
+          5,
+          2,
+          3,
+          1
+        ],
+        "color": "#056cb7"
+      }
+    ]
+  }
+]

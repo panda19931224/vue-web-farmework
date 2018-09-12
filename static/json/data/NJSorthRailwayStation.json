@@ -1,0 +1,679 @@
+[
+  {
+    "key": "history-data-table",
+    "value": [
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      },
+      {
+        "data": "2017-08-04",
+        "area": "地铁",
+        "userFlowNumber": "123456",
+        "averageTime": "5"
+      }
+    ]
+  },
+  {
+    "key": "transfer-analysis-sankey",
+    "value": [
+      {
+        "date": "2018/08/08",
+        "source": "长途大巴出站口",
+        "target": "地铁",
+        "value": 1643
+      },
+      {
+        "date": "2018/08/08",
+        "source": "高铁出站口",
+        "target": "地铁",
+        "value": 11021
+      },
+      {
+        "date": "2018/08/08",
+        "source": "长途大巴出站口",
+        "target": "长途大巴候车室",
+        "value": 1117
+      },
+      {
+        "date": "2018/08/08",
+        "source": "长途大巴出站口",
+        "target": "出租车场站",
+        "value": 339
+      },
+      {
+        "date": "2018/08/08",
+        "source": "长途大巴出站口",
+        "target": "高铁候车室",
+        "value": 1098
+      },
+      {
+        "date": "2018/08/08",
+        "source": "长途大巴出站口",
+        "target": "公交场站",
+        "value": 169
+      },
+      {
+        "date": "2018/08/08",
+        "source": "高铁出站口",
+        "target": "出租车场站",
+        "value": 5667
+      },
+      {
+        "date": "2018/08/08",
+        "source": "高铁出站口",
+        "target": "公交场站",
+        "value": 335
+      },
+      {
+        "date": "2018/08/08",
+        "source": "高铁出站口",
+        "target": "长途大巴候车室",
+        "value": 342
+      },
+      {
+        "date": "2018/08/08",
+        "source": "高铁出站口",
+        "target": "出租车场站",
+        "value": 565
+      },
+      {
+        "date": "2018/08/08",
+        "source": "高铁出站口",
+        "target": "公交场站",
+        "value": 54
+      },
+      {
+        "source": "长途大巴出站口",
+        "target": "出租车场站",
+        "value": 345
+      },
+      {
+        "date": "2018/08/08",
+        "source": "长途大巴出站口",
+        "target": "高铁候车室",
+        "value": 34
+      },
+      {
+        "date": "2018/08/08",
+        "source": "其他(落客平台等)",
+        "target": "高铁候车室",
+        "value": 34
+      }
+    ]
+  },
+  {
+    "key": "over-view-passengerFlow",
+    "value": [
+      {
+        "yesterdayPassengerFlow": 284567
+      },
+      {
+        "todayPassengerFlow": 16540
+      }
+    ]
+  },
+  {
+    "key": "over-view-dayTimePassengerFlow",
+    "value": [
+      {
+        "dayTime": "00",
+        "dayTimePassengerFlow": "3"
+      },
+      {
+        "dayTime": "01",
+        "dayTimePassengerFlow": "2.7"
+      },
+      {
+        "dayTime": "02",
+        "dayTimePassengerFlow": "4.3"
+      },
+      {
+        "dayTime": "03",
+        "dayTimePassengerFlow": "3.9"
+      },
+      {
+        "dayTime": "04",
+        "dayTimePassengerFlow": "4.1"
+      },
+      {
+        "dayTime": "05",
+        "dayTimePassengerFlow": "5.8"
+      },
+      {
+        "dayTime": "06",
+        "dayTimePassengerFlow": "4.9"
+      },
+      {
+        "dayTime": "07",
+        "dayTimePassengerFlow": "8.8"
+      },
+      {
+        "dayTime": "08",
+        "dayTimePassengerFlow": "7"
+      },
+      {
+        "dayTime": "09",
+        "dayTimePassengerFlow": "3.9"
+      },
+      {
+        "dayTime": "10",
+        "dayTimePassengerFlow": "5.5"
+      }
+    ]
+  },
+  {
+    "key": "over-view-yesterdayAge",
+    "value": [
+      {
+        "name": "22岁及以下",
+        "value": "5"
+      },
+      {
+        "name": "23-35岁",
+        "value": "27"
+      },
+      {
+        "name": "36-5岁",
+        "value": "35"
+      },
+      {
+        "name": "46-55岁",
+        "value": "20"
+      },
+      {
+        "name": "56岁及以下",
+        "value": "13"
+      }
+    ]
+  },
+  {
+    "key": "over-view-yesterdaySex",
+    "value": [
+      {
+        "name": "男",
+        "value": "55"
+      },
+      {
+        "name": "女",
+        "value": "45"
+      }
+    ]
+  },
+  {
+    "key": "over-view-yesterdayPassengerFlowSource",
+    "value": [
+      {
+        "name": "南京市",
+        "value": 5355
+      },
+      {
+        "name": "苏州市",
+        "value": 535
+      },
+      {
+        "name": "徐州市",
+        "value": 530
+      },
+      {
+        "name": "无锡市",
+        "value": 435
+      },
+      {
+        "name": "淮安市",
+        "value": 400
+      },
+      {
+        "name": "扬州市",
+        "value": 350
+      },
+      {
+        "name": "镇江市",
+        "value": 300
+      },
+      {
+        "name": "南通市",
+        "value": 200
+      },
+      {
+        "name": "盐城市",
+        "value": 180
+      },
+      {
+        "name": "宿迁市",
+        "value": 100
+      }
+    ]
+  },
+  {
+    "key": "userFlow-analysis-passengerFlow",
+    "value": [
+      {
+        "yesterdayPassengerFlow": 284567
+      },
+      {
+        "todayPassengerFlow": 16540
+      }
+    ]
+  },
+  {
+  "key": "userFlow-analysis-passengerFlow",
+  "value": [
+    {
+      "date": "1/1",
+      "time": 16
+    },
+    {
+      "date": "1/2",
+      "time": 6
+    },
+    {
+      "date": "1/3",
+      "time": 26
+    },
+    {
+      "date": "1/4",
+      "time": 36
+    },
+    {
+      "date": "1/5",
+      "time": 16
+    },
+    {
+      "date": "1/6",
+      "time": 6
+    },
+    {
+      "date": "1/7",
+      "time": 26
+    }
+  ]
+},
+  {
+    "key": "userFlow-analysis-yeterdayPassenger",
+    "value": [
+      {
+        "date": "00时",
+        "value": 4278
+      },
+      {
+        "date": "01时",
+        "value": 3999
+      },
+      {
+        "date": "02时",
+        "value": 3277
+      },
+      {
+        "date": "03时",
+        "value": 4890
+      },
+      {
+        "date": "04时",
+        "value": 5555
+      },
+      {
+        "date": "05时",
+        "value": 7777
+      },
+      {
+        "date": "06时",
+        "value": 8890
+      },
+      {
+        "date": "07时",
+        "value": 11540
+      },
+      {
+        "date": "08时",
+        "value": 8540
+      },
+      {
+        "date": "09时",
+        "value": 8540
+      },
+      {
+        "date": "10时",
+        "value": 7540
+      }
+    ]
+  },
+  {
+    "key": "userFlow-analysis-holidayPassenger",
+    "value": [
+      {
+        "date": "01",
+        "newYear": 5,
+        "chineseNewYear": 4,
+        "qingMing": 2,
+        "dragonBoatFestival": 6,
+        "labourDay": 6,
+        "midAutumn": 1,
+        "nationalDay": 2,
+        "yesterday": 7
+      },
+      {
+        "date": "02",
+        "newYear": 8,
+        "chineseNewYear": 4,
+        "qingMing": 8,
+        "dragonBoatFestival": 10,
+        "labourDay": 11,
+        "midAutumn": 15,
+        "nationalDay": 15,
+        "yesterday": 7
+      },
+      {
+        "date": "03",
+        "newYear": 14,
+        "chineseNewYear": 5,
+        "qingMing": 12,
+        "dragonBoatFestival": 14,
+        "labourDay": 16,
+        "midAutumn": 20,
+        "nationalDay": 20,
+        "yesterday": 16
+      },
+      {
+        "date": "04",
+        "newYear": 16,
+        "chineseNewYear": 6,
+        "qingMing": 13,
+        "dragonBoatFestival": 18,
+        "labourDay": 21,
+        "midAutumn": 24,
+        "nationalDay": 25,
+        "yesterday": 16
+      },
+      {
+        "date": "05",
+        "newYear": 18,
+        "chineseNewYear": 7,
+        "qingMing": 14,
+        "dragonBoatFestival": 20,
+        "labourDay": 22,
+        "midAutumn": 24,
+        "nationalDay": 27,
+        "yesterday": 17
+      },
+      {
+        "date": "06",
+        "newYear": 20,
+        "chineseNewYear": 8,
+        "qingMing": 15,
+        "dragonBoatFestival": 20,
+        "labourDay": 22,
+        "midAutumn": 24,
+        "nationalDay": 29,
+        "yesterday": 18
+      },
+      {
+        "date": "07",
+        "newYear": 22,
+        "chineseNewYear": 9,
+        "qingMing": 16,
+        "dragonBoatFestival": 21,
+        "labourDay": 23,
+        "midAutumn": 25,
+        "nationalDay": 29,
+        "yesterday": 20
+      },
+      {
+        "date": "08",
+        "newYear": 27,
+        "chineseNewYear": 11,
+        "qingMing": 17,
+        "dragonBoatFestival": 22,
+        "labourDay": 24,
+        "midAutumn": 25,
+        "nationalDay": 29,
+        "yesterday": 22
+      },
+      {
+        "date": "09",
+        "newYear": 24,
+        "chineseNewYear": 12,
+        "qingMing": 18,
+        "dragonBoatFestival": 23,
+        "labourDay": 24,
+        "midAutumn": 25,
+        "nationalDay": 29,
+        "yesterday": 23
+      },
+      {
+        "date": "10",
+        "newYear": 20,
+        "chineseNewYear": 13,
+        "qingMing": 19,
+        "dragonBoatFestival": 24,
+        "labourDay": 24,
+        "midAutumn": 25,
+        "nationalDay": 29,
+        "yesterday": 24
+      },
+      {
+        "date": "11",
+        "newYear": 20,
+        "chineseNewYear": 15,
+        "qingMing": 20,
+        "dragonBoatFestival": 25,
+        "labourDay": 26,
+        "midAutumn": 25,
+        "nationalDay": 28,
+        "yesterday": 25
+      },
+      {
+        "date": "12",
+        "newYear": 18,
+        "chineseNewYear": 16,
+        "qingMing": 21,
+        "dragonBoatFestival": 26,
+        "labourDay": 27,
+        "midAutumn": 25,
+        "nationalDay": 28,
+        "yesterday": 25
+      },
+      {
+        "date": "13",
+        "newYear": 18,
+        "chineseNewYear": 17,
+        "qingMing": 22,
+        "dragonBoatFestival": 27,
+        "labourDay": 28,
+        "midAutumn": 26,
+        "nationalDay": 28,
+        "yesterday": 26
+      },
+      {
+        "date": "14",
+        "newYear": 18,
+        "chineseNewYear": 18,
+        "qingMing": 23,
+        "dragonBoatFestival": 28,
+        "labourDay": 29,
+        "midAutumn": 27,
+        "nationalDay": 27,
+        "yesterday": 27
+      },
+      {
+        "date": "15",
+        "newYear": 16,
+        "chineseNewYear": 19,
+        "qingMing": 24,
+        "dragonBoatFestival": 30,
+        "labourDay": 29,
+        "midAutumn": 27,
+        "nationalDay": 27,
+        "yesterday": 26
+      },
+      {
+        "date": "16",
+        "newYear": 16,
+        "chineseNewYear": 20,
+        "qingMing": 25,
+        "dragonBoatFestival": 31,
+        "labourDay": 30,
+        "midAutumn": 27,
+        "nationalDay": 26,
+        "yesterday": 25
+      },
+      {
+        "date": "17",
+        "newYear": 15,
+        "chineseNewYear": 21,
+        "qingMing": 26,
+        "dragonBoatFestival": 32,
+        "labourDay": 30,
+        "midAutumn": 27,
+        "nationalDay": 25,
+        "yesterday": 24
+      },
+      {
+        "date": "18",
+        "newYear": 14,
+        "chineseNewYear": 22,
+        "qingMing": 27,
+        "dragonBoatFestival": 33,
+        "labourDay": 30,
+        "midAutumn": 27,
+        "nationalDay": 24,
+        "yesterday": 23
+      },
+      {
+        "date": "19",
+        "newYear": 13,
+        "chineseNewYear": 23,
+        "qingMing": 28,
+        "dragonBoatFestival": 34,
+        "labourDay": 31,
+        "midAutumn": 27,
+        "nationalDay": 23,
+        "yesterday": 22
+      },
+      {
+        "date": "20",
+        "newYear": 13,
+        "chineseNewYear": 24,
+        "qingMing": 29,
+        "dragonBoatFestival": 30,
+        "labourDay": 25,
+        "midAutumn": 27,
+        "nationalDay": 22,
+        "yesterday": 21
+      }
+    ]
+  },
+  {
+    "key": "over-view-yesterdayPassengerChinaFlowSource",
+    "value": [
+      {
+        "name": "黑龙江",
+        "value": 5355
+      },
+      {
+        "name": "西藏",
+        "value": 535
+      },
+      {
+        "name": "江西",
+        "value": 530
+      },
+      {
+        "name": "辽宁",
+        "value": 435
+      },
+      {
+        "name": "河北",
+        "value": 400
+      },
+      {
+        "name": "四川",
+        "value": 350
+      },
+      {
+        "name": "海南",
+        "value": 300
+      },
+      {
+        "name": "河南",
+        "value": 200
+      },
+      {
+        "name": "珠海",
+        "value": 180
+      },
+      {
+        "name": "安徽",
+        "value": 100
+      }
+    ]
+  }
+]
